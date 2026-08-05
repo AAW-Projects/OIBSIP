@@ -173,18 +173,18 @@ Through these projects, I gained hands-on experience in:
 ```
 ├── Task 1 - Retail Sales EDA
 │   ├── Retail_Sales_EDA.ipynb
+│   ├── README.md
 │   ├── train.csv
-│   └── Images
 
 ├── Task 2 - Customer Segmentation
 │   ├── Customer_Segmentation_KMeans.ipynb
+│   ├── README.md
 │   ├── Shopping Mall Customer Segmentation Data.csv
-│   └── Images
 
 ├── Task 3 - House Price Prediction
 │   ├── House_Price_Prediction.ipynb
+│   ├── README.md
 │   ├── AmesHousing.csv
-│   └── Images
 
 └── README.md
 ```
