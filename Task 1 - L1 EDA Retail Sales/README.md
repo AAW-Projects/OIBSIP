@@ -48,12 +48,6 @@ Retail Sales Dataset
 
 ---
 
-## 📸 Project Screenshots
-
-(Add screenshots here)
-
----
-
 ## 📈 Key Insights
 
 - Consumer segment generated the highest sales.
