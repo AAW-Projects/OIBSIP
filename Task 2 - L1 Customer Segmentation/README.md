@@ -51,3 +51,4 @@ Shopping Mall Customer Segmentation Dataset
 - Five customer clusters were identified.
 - High-income and high-spending customers were successfully segmented.
 - Business recommendations were developed for each customer group.
+
