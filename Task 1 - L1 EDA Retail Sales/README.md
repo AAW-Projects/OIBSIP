@@ -54,3 +54,4 @@ Retail Sales Dataset
 - Technology category recorded the highest revenue.
 - West region outperformed other regions.
 - Seasonal trends were observed in monthly sales.
+
